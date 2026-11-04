@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-fastapi",
+      "title": "Persistência com SQLite e FastAPI",
+      "description": "Armazenamento persistente e operações CRUD com SQLite em uma API FastAPI",
+      "path": "assignments/sqlite-fastapi",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
